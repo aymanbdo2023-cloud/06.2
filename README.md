@@ -84,14 +84,14 @@ Create the required tables by connecting to the database:
 
 ```powershell
 docker compose exec db psql -U postgres -d library
-```<img width="726" height="571" alt="06 2-2" src="https://github.com/user-attachments/assets/7961ab8c-c5a8-459a-a7e5-2c084ac3053b" />
-
+```
 
 Then run your `CREATE TABLE` statements. Alternatively, the app can auto-create tables on startup by adding `CREATE TABLE IF NOT EXISTS` queries in `server.js`.
 
-## Screensh<img width="718" height="621" alt="06 2-1" src="https://github.com/user-attachments/assets/6fd31c16-3dc6-45d2-ae5d-be697e89aec9" />
-ots
-![Uploading 06.2-2.png…]()
+## Screenshots
 
-<img width="1133" height="78" alt="06 2-3" src="https://github.com/user-attachments/assets/e1d3886f-b102-41cb-ba22-daae108e6fa3" />
+<!-- Paste your screenshot of `docker compose ps` showing all 3 services running here -->
+_![docker compose ps]()_
 
+<!-- Paste your screenshot of a successful API response (e.g., curl /test or /users) here -->
+_![API test]()_
