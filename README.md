@@ -90,8 +90,8 @@ Then run your `CREATE TABLE` statements. Alternatively, the app can auto-create 
 
 ## Screenshots
 
-<!-- Paste your screenshot of `docker compose ps` showing all 3 services running here -->
-_![docker compose ps]()_
+![API test 1](assets/06.2-1.png)
 
-<!-- Paste your screenshot of a successful API response (e.g., curl /test or /users) here -->
-_![API test]()_
+![API test 2](assets/06.2-2.png)
+
+![docker compose ps](assets/06.2-3.png)
