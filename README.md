@@ -91,6 +91,7 @@ Then run your `CREATE TABLE` statements. Alternatively, the app can auto-create 
 ## Screenshots
 
 ![API test 1](assets/06.2-1.png)
+![API test 1](assets/06.2-2.png)
 
 <!-- Paste your screenshot of a successful API response (e.g., curl /test or /users) here -->
-_![API test](<img width="718" height="621" alt="06 2-1" src="https://github.com/user-attachments/assets/95372685-095f-4289-a500-1c804c1265c7" />)_
+_![API test](assets/06.2-3.png)
